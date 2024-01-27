@@ -1,12 +1,8 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This project is a manual for fresh law students the law faculties in the Republic of Ghana. It is not too far fetched to say that this resource may also assist new students of the law in other common law jurisdictions.
 
-This template provides a skeleton file structure that you can edit to create your book. 
-
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
+This project is made possible by bookdown and R.
 
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
