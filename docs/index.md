@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "The Law Student's Manual"
+author: "Felix Antwi Oppong"
 date: "2024-01-27"
 site: bookdown::bookdown_site
 documentclass: book
