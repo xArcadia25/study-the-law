@@ -1,12 +1,12 @@
 --- 
 title: "The Law Student's Manual"
 author: "Felix Antwi Oppong"
-date: "2024-01-27"
+date: "2024-01-30"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+# url: https://xarcadia25.github.io/study-the-law/
+# cover-image: xarcadia25/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
   The HTML output format for this example is bookdown::gitbook,

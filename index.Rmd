@@ -5,10 +5,10 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+# url: https://xarcadia25.github.io/study-the-law/
+# cover-image: xarcadia25/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
+  Here lies a guide to the study of law. A short guide though it may be, an attempt have been made to include all matters relevant to a new student of the law.
   The HTML output format for this example is bookdown::gitbook,
   set in the _output.yml file.
 link-citations: yes
